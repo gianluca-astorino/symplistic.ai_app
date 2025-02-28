@@ -11426,3 +11426,22 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 /* end footer */
+
+
+.masthead-device-mockup-image {
+  width: 100%;
+  height: 100%;
+  margin-top: 40px;
+}
+
+@media (max-width: 720.98px) {
+  .masthead-device-mockup-image {
+    width: 130%;
+    height: 130%;
+  }
+}
+
+.lifestyle-image-section {
+  width: 200%;
+  height: 200%;
+}
